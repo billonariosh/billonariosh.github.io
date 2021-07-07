@@ -1,26 +1,43 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-29 18:05:55 +0300
-image:  10.jpg
-tags:   Jekyll
+title:  "1년차 개발 일지"
+date:   2018-01-01 18:05:55 +0300
+image:  happy.jpg
+tags:   2018.
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+ 2018-10 ~ 12
+  - 사내 솔루션 개발 프로젝트 개발  
+   . 기업 임원의 사내 부재를 안내하는 시스템 개발.  
+   . 적용 기술: electron + sptring2 + security + jquery + jsp + mybatis + mysql + centos6  
+   . 형상관리 도구: svn
+   
+ 2018-06 ~ 12
+  - 여성가족부 성폭력 예방 홈페이지 개발 / 운영  
+   . FRONT-END 개발.  
+   . 형상관리 도구: svn
+ 
+ 2018-05 ~ 06
+  - 한국야쿠르트 Eatson 하이프레시 이벤트 페이지 개발 / 운영  
+   . FRONT-END 개발.  
+   . 형상관리 도구: svn  
+   . 기타: 로드벨런싱 적용 jekins 활용  
+ 
+ 2018-04 ~ 05
+  - 한국야쿠르트 SUPER100 프로모션 이벤트 페이지 개발 / 운영  
+   . FRONT-END 개발.  
+   . 형상관리 도구: svn  
+   . 기타: 로드벨런싱 적용 jekins 활용  
+   
+ 2018-03 ~ 05
+  - 한국관광공사 국내 관광지 소개 페이지 유지보수  
+   . 적용 기술: spring2 + security + jquery + jsp + mybatis + mssql + centos6  
+   . 형상관리 도구: svn
+  
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+  
 
-Jekyll also offers powerful support for code snippets:
+  
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+  
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+      
