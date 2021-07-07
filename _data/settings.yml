@@ -1,8 +1,14 @@
 #-------------------------------
 # General Site Settings
+<<<<<<< HEAD
 title: seunghee's portfolio
 logo: logo.svg # You can add own logo.
 description: 자신을 극복하는 힘을 가진 사람이 가장 강하다.
+=======
+title: Billo
+logo: logo.svg # You can add own logo.
+description: 
+>>>>>>> e4e894bc9622e55a8e784c3b3a2ac0b83ac67314
 
 
 #-------------------------------
